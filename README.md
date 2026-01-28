@@ -1,4 +1,4 @@
-# FreeCodeCamp Personal Portfolio Project - ReadMe
+# FreeCodeCamp Personal Portfolio Project
 
 ## 📋 Project Overview
 
